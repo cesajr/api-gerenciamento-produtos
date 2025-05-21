@@ -187,7 +187,7 @@ O servidor estará disponível em:
 
 ## 10. Contato / Contact
 
-Para dúvidas, sugestões ou contribuições, abra uma issue no GitHub ou entre em contato pelo email: seu.email@exemplo.com
+Para dúvidas, sugestões ou contribuições, abra uma issue no GitHub ou entre em contato pelo email: snppaulocesar@gmail.com
 
 ---
 
